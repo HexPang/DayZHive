@@ -1,5 +1,4 @@
 ## Version 1.0.8
-========
 ## FAQ
 ### Q:How to use ?
 ### A:put it anywhere you want,use this command to start server "java -jar DayZHive_VERSION.jar"
