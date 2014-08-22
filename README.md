@@ -12,7 +12,7 @@ DayZHive
 ## A:Oh!Cool!How did you do that?Tell me pleassssssssse!!!
 
 # About Config file
-```{
+``` {
     "allowIP": [
         "127.0.0.1" //This is IP address is Allowed to access Hive Server.
     ],
