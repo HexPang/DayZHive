@@ -34,3 +34,7 @@
     "user": "root" //Database user name.
 }
 ```
+
+## Next Version Feature Includes :
+### 1,Character Spawn(You can add items to character)
+### 2,hmmmmmm any advice?
