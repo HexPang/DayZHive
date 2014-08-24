@@ -1,13 +1,17 @@
- Version 1.0.12
- What's News?
- 1. You can set user items when sapwn.
- 2. New config file format,YOU NEED remove old version of config.cfg,It WILL create new one.
+Version 1.0.12 
+
+What's News?
+
+1, You can set user items when sapwn.
+
+2, New config file format,YOU NEED remove old version of config.cfg,It WILL create new one. 
+
 =====================
- Version 1.0.9
- What's News?
- Added Warning Message When received unknow action value.
+- Version 1.0.9 
+- What's News? 
+- Added Warning Message When received unknow action value.
 =====================
- FAQ
+FAQ
  Q:What's this?
  A:It's a private hive system for DayZ Standalone(test passed on 0.47) to save player data.
 =====================
@@ -78,6 +82,7 @@
 ```
 
  About Config file 1.0.X < 12
+ 
 ```
 {
     "allowIP": [
