@@ -8,15 +8,16 @@ What's News?
 
 
 Version 1.0.9 
+
 What's News? 
+
 Added Warning Message When received unknow action value.
 
+## FAQ
 
-FAQ
+Q: What's this?
 
-Q What's this?
-
-A It's a private hive system for DayZ Standalone(test passed on 0.47) to save player data.
+A: It's a private hive system for DayZ Standalone(test passed on 0.47) to save player data.
 
 Q: How to use ?
 
@@ -37,6 +38,9 @@ A:Oh!Cool!How did you do that?Tell me pleassssssssse!!!
 Q:I Want Add Sapwn Loot,What should i do?
  
 A:Create a file named "character.template" in Hive directory,you can also copy save data.If you changed the template,you need restart hive to make it work.
+
+Q:Is this support tent save?
+A:Oh,It's not support yet,But i'm now working on DayZServer and Hive,when finished i'll update it here. 
 
  Config File 1.0.12+
 ```
