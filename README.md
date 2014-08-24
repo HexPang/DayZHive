@@ -1,3 +1,5 @@
+### 1.0.12 IS NOT stable,DO NOT Download Before next fix.
+=====================
 ## Version 1.0.9
 ## What's News?
 ### Added Warning Message When received unknow action value.
