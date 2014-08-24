@@ -1,7 +1,16 @@
-## Version 1.0.8
+## Version 1.0.9
+## What's News?
+### Added Warning Message When received unknow action value.
+
 ## FAQ
+### Q:What's this?
+### A:It's a private hive system for DayZ Standalone(test passed on 0.47) to save player data.
+=====================
 ### Q:How to use ?
 ### A:put it anywhere you want,use this command to start server "java -jar DayZHive_VERSION.jar"
+=====================
+### Q:I Got An Error!!
+### A:Send email or add my gtalk id hexpang@gmail.com
 =====================
 ### Q:Is this support Database ?
 ### A:Yes,But it's only support MySQL for now.You can enable it in config.cfg,change "useMySQL" to "true".
@@ -25,3 +34,7 @@
     "user": "root" //Database user name.
 }
 ```
+
+## Next Version Feature Includes :
+### 1,Character Spawn(You can add items to character)
+### 2,hmmmmmm any advice?
