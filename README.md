@@ -36,5 +36,5 @@
 ```
 
 ## Next Version Feature Includes :
-### 1,Character Spawn(You can add items to character)
+### 1,Character Spawn(You can add items to character with template file)
 ### 2,hmmmmmm any advice?
