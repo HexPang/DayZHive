@@ -1,6 +1,6 @@
 Version 1.0.12 
 
-This Version ** IS NOT ** Support Vehicle Save!
+This Version **IS NOT** Support Vehicle Save!
 
 What's News?
 
